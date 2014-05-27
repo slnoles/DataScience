@@ -1,9 +1,14 @@
-## This is a secondary heading
-### This is a tertiary heading
+DataScience
+===========
+
+A repo for the data science mooc.
+
+## This is a secondary Heading.
+### This is a tertiary Heading.
 
 This is a list
-* first item in list
-* second item in the list
-* third item in the list
+*Item one
+*Item two
+*Item three
 
-This is the end of the file.
+The end.
