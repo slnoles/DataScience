@@ -7,8 +7,8 @@ A repo for the data science mooc.
 ### This is a tertiary Heading.
 
 This is a list
-*Item one
-*Item two
-*Item three
+* Item one
+* Item two
+* Item three
 
 The end.
